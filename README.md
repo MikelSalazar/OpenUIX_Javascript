@@ -1,2 +1,2 @@
-# OpenUIX_Javascript
-The JavaScript implementation of the OpenUIX framework.
+# OpenUIX_TypeScript
+The TypeScript implementation of the OpenUIX framework.
